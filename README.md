@@ -1,3 +1,7 @@
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+
 # Study of Acts Over Monoids
 
 This project is part of my Bachelor's and Master's research in Mathematics at the Central University of Kashmir (2023–2024).
